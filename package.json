@@ -1,0 +1,16 @@
+{
+  "name": "@lupoliemilio/my-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lupoliemilio",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0"
+  }
+}
